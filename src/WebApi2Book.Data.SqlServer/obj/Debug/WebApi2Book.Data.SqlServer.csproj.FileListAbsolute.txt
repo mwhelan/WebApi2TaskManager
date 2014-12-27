@@ -1,0 +1,16 @@
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Data.SqlServer.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Data.SqlServer.pdb
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\FluentNHibernate.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\Iesi.Collections.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\NHibernate.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Common.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Data.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Common.pdb
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Data.pdb
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\FluentNHibernate.pdb
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\FluentNHibernate.xml
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\Iesi.Collections.xml
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\NHibernate.xml
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\obj\Debug\WebApi2Book.Data.SqlServer.csprojResolveAssemblyReference.cache
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\obj\Debug\WebApi2Book.Data.SqlServer.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\obj\Debug\WebApi2Book.Data.SqlServer.pdb

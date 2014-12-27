@@ -1,0 +1,4 @@
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.IntegrationTests\bin\Debug\WebApi2Book.IntegrationTests.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.IntegrationTests\bin\Debug\WebApi2Book.IntegrationTests.pdb
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.IntegrationTests\obj\Debug\WebApi2Book.IntegrationTests.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.IntegrationTests\obj\Debug\WebApi2Book.IntegrationTests.pdb

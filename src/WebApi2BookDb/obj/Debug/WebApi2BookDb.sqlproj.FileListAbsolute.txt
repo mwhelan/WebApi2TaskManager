@@ -1,0 +1,5 @@
+D:\Apps\github\WebApi2TaskManager\src\WebApi2BookDb\bin\Debug\WebApi2BookDb.dacpac
+D:\Apps\github\WebApi2TaskManager\src\WebApi2BookDb\bin\Debug\WebApi2BookDb.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2BookDb\bin\Debug\WebApi2BookDb.pdb
+D:\Apps\github\WebApi2TaskManager\src\WebApi2BookDb\obj\Debug\WebApi2BookDb.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2BookDb\obj\Debug\WebApi2BookDb.pdb

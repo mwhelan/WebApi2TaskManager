@@ -1,0 +1,5 @@
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data\bin\Debug\WebApi2Book.Data.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data\bin\Debug\WebApi2Book.Data.pdb
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.csprojResolveAssemblyReference.cache
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.pdb
