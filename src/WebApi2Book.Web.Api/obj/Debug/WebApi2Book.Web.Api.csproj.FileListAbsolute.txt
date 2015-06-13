@@ -40,3 +40,7 @@ D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Api\bin\System.Web.Http.We
 D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Api\obj\Debug\WebApi2Book.Web.Api.csprojResolveAssemblyReference.cache
 D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Api\obj\Debug\WebApi2Book.Web.Api.dll
 D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Api\obj\Debug\WebApi2Book.Web.Api.pdb
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Api\bin\System.Web.Http.Tracing.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Api\bin\System.Web.Http.Tracing.xml
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Api\bin\AutoMapper.pdb
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Api\bin\AutoMapper.Net4.pdb

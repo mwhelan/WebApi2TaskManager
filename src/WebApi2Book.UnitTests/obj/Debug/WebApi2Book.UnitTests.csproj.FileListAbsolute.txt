@@ -2,3 +2,4 @@ D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.UnitTests\bin\Debug\WebApi2Boo
 D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.UnitTests\bin\Debug\WebApi2Book.UnitTests.pdb
 D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.UnitTests\obj\Debug\WebApi2Book.UnitTests.dll
 D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.UnitTests\obj\Debug\WebApi2Book.UnitTests.pdb
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.UnitTests\obj\Debug\WebApi2Book.UnitTests.csprojResolveAssemblyReference.cache

@@ -17,3 +17,15 @@ D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\bin\Debug\Ninject.W
 D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\obj\Debug\WebApi2Book.Web.Common.csprojResolveAssemblyReference.cache
 D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\obj\Debug\WebApi2Book.Web.Common.dll
 D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\obj\Debug\WebApi2Book.Web.Common.pdb
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\bin\Debug\System.Net.Http.Formatting.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.WebHost.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\bin\Debug\Newtonsoft.Json.xml
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\bin\Debug\System.Net.Http.Formatting.xml
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.xml
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.WebHost.xml
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\bin\Debug\AutoMapper.Net4.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\bin\Debug\AutoMapper.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\bin\Debug\AutoMapper.xml
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Web.Common\bin\Debug\AutoMapper.pdb

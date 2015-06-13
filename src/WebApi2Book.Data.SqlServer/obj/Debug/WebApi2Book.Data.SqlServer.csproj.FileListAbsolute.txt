@@ -14,3 +14,9 @@ D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\NHibe
 D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\obj\Debug\WebApi2Book.Data.SqlServer.csprojResolveAssemblyReference.cache
 D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\obj\Debug\WebApi2Book.Data.SqlServer.dll
 D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\obj\Debug\WebApi2Book.Data.SqlServer.pdb
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\log4net.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\log4net.xml
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\AutoMapper.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\AutoMapper.xml
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\AutoMapper.Net4.dll
+D:\Apps\github\WebApi2TaskManager\src\WebApi2Book.Data.SqlServer\bin\Debug\AutoMapper.pdb
